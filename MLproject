@@ -4,5 +4,5 @@ entry_points:
   main:
     parameters:
       alpha: {type: float, default: 0.4}
-      l1_ratio: {type: float, default: 0.4}
+      l1_ratio: {type: float, default: 0.3}
     command: "python train.py {alpha} {l1_ratio}"
