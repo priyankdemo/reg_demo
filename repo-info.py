@@ -2,7 +2,7 @@
 import requests
 
 # defining the api-endpoint
-API_ENDPOINT = "http://cb4c-115-119-250-30.ngrok.io/train"
+API_ENDPOINT = "http://1612-115-119-250-30.ngrok.io/train"
 
 # data to be sent to api
 data = {
