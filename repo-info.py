@@ -16,4 +16,4 @@ r = requests.post(url = API_ENDPOINT, data = data)
 
 # extracting response text
 pastebin_url = r.text
-print("The pastebin URL is:%s"%pastebin_url)
+print("The pastebin URL is :%s"%pastebin_url)
