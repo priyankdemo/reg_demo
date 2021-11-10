@@ -8,7 +8,7 @@ API_ENDPOINT = "http://3b43-115-119-250-30.ngrok.io/train"
 data = {
 	"url": "https://github.com/priyankdemo/reg_demo",
 	"branch_name": "master",
-	"user_name": "priy@gmail.com"
+	"user_name": "priyank@gmail.com"
 }
 
 # sending post request and saving response as response object
