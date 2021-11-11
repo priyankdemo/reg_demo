@@ -1,4 +1,4 @@
-# importing the requ ests library
+# importing the requests library
 import requests
 
 # defining the api-endpoint
