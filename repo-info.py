@@ -6,7 +6,7 @@ API_ENDPOINT = "http://9797-115-119-250-30.ngrok.io/train"
 
 # data to be sent to api
 data = {
-	"url": "https://github.com/priyankdemo/reg_demo",
+	"url": "https://github.com/priyankdemo/reg_demo_priyank_yash",
 	"branch_name": "master",
 	"user_name": "priyank@gmail.com"
 }
