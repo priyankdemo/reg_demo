@@ -1,4 +1,4 @@
-name: tutori2
+name: tutorti2
 channels:
   - conda-forge
 dependencies:
