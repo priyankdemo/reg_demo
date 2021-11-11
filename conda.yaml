@@ -1,4 +1,4 @@
-name: tuto
+name: tut
 channels:
   - conda-forge
 dependencies:
