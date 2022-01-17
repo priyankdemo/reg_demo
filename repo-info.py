@@ -2,13 +2,13 @@
 import requests
 
 # defining the api-endpoint
-API_ENDPOINT = "http://115.115.91.60:5432/train"
+API_ENDPOINT = "http://c893-115-119-250-30.ngrok.io/train"
 
 # data to be sent to api
 data = {
 	"url": "https://github.com/priyankdemo/reg_demo_priyank_yash",
 	"branch_name": "master",
-	"user_name": "priy@gmail.com"
+	"user_name": "demo_mlops@gmail.com"
 }
 
 # sending post request and saving response as response object
