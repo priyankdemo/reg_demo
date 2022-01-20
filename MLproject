@@ -1,4 +1,4 @@
-name: tutorials
+name: tutoria
 conda_env: conda.yaml
 entry_points:
   main:
