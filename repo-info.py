@@ -1,4 +1,4 @@
-# mportin the requests library
+# mportin the requestslibrary
 import requests
 
 # defining the api-endpoint
