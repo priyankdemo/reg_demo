@@ -1,4 +1,4 @@
-# mportin the requestslibrary
+# mportin the requestsli brary
 import requests
 
 # defining the api-endpoint
